@@ -1,2 +1,1 @@
-# my first git project
-## about
+# git lab project (main Branch version)
